@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("D:/Selenium-Udemy/BDDDemo/src/main/java/Feature/TrivagoSearch.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/Girish Nair/git/CucumberProject/BDDDemo/src/main/java/Feature/TrivagoSearch.feature");
 formatter.feature({
   "line": 1,
   "name": "Trivago Website Search Functionality Test",
@@ -135,21 +135,21 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 52000041503,
+  "duration": 64780064288,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.correct_link_is_open_by_the_browser()"
 });
 formatter.result({
-  "duration": 305074629,
+  "duration": 6312980289,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.click_on_search_menu()"
 });
 formatter.result({
-  "duration": 1784490674,
+  "duration": 4402792745,
   "status": "passed"
 });
 formatter.match({
@@ -162,14 +162,14 @@ formatter.match({
   "location": "stepDefinition.enter_the_location_to_search_hotels(String)"
 });
 formatter.result({
-  "duration": 1299469832,
+  "duration": 3109765703,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 902023071,
+  "duration": 25250598649,
   "status": "passed"
 });
 formatter.scenario({
@@ -218,21 +218,21 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 31236246003,
+  "duration": 21372273904,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.correct_link_is_open_by_the_browser()"
 });
 formatter.result({
-  "duration": 116049474,
+  "duration": 443151109,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.click_on_search_menu()"
 });
 formatter.result({
-  "duration": 2658814324,
+  "duration": 2584443388,
   "status": "passed"
 });
 formatter.match({
@@ -245,14 +245,14 @@ formatter.match({
   "location": "stepDefinition.enter_the_location_to_search_hotels(String)"
 });
 formatter.result({
-  "duration": 1198014562,
+  "duration": 3822758023,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 6657979597,
+  "duration": 1127552388,
   "status": "passed"
 });
 formatter.scenario({
@@ -301,21 +301,21 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 14946835800,
+  "duration": 21431936852,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.correct_link_is_open_by_the_browser()"
 });
 formatter.result({
-  "duration": 16197906,
+  "duration": 35196578,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.click_on_search_menu()"
 });
 formatter.result({
-  "duration": 1021869388,
+  "duration": 1388413519,
   "status": "passed"
 });
 formatter.match({
@@ -328,14 +328,14 @@ formatter.match({
   "location": "stepDefinition.enter_the_location_to_search_hotels(String)"
 });
 formatter.result({
-  "duration": 1001944588,
+  "duration": 1067950064,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 2085181819,
+  "duration": 961887006,
   "status": "passed"
 });
 formatter.scenario({
@@ -384,21 +384,21 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 21620775009,
+  "duration": 33224837753,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.correct_link_is_open_by_the_browser()"
 });
 formatter.result({
-  "duration": 16571901,
+  "duration": 36894945,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.click_on_search_menu()"
 });
 formatter.result({
-  "duration": 822617658,
+  "duration": 703537985,
   "status": "passed"
 });
 formatter.match({
@@ -411,14 +411,14 @@ formatter.match({
   "location": "stepDefinition.enter_the_location_to_search_hotels(String)"
 });
 formatter.result({
-  "duration": 977970662,
+  "duration": 2043678154,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 930460224,
+  "duration": 3769106511,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -536,14 +536,14 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 19169812439,
+  "duration": 14873260422,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_search_for_newsletter_option()"
 });
 formatter.result({
-  "duration": 140365,
+  "duration": 89069,
   "status": "passed"
 });
 formatter.match({
@@ -556,21 +556,21 @@ formatter.match({
   "location": "stepDefinition.input_email_address(String)"
 });
 formatter.result({
-  "duration": 477699958,
+  "duration": 984841539,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.submit_the_consent_to_receive_newsletter()"
 });
 formatter.result({
-  "duration": 5165953107,
+  "duration": 299514133,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 784531245,
+  "duration": 930097420,
   "status": "passed"
 });
 formatter.scenario({
@@ -619,14 +619,14 @@ formatter.match({
   "location": "stepDefinition.open_Browser_and_input_the_URL()"
 });
 formatter.result({
-  "duration": 11584920909,
+  "duration": 32452251502,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_search_for_newsletter_option()"
 });
 formatter.result({
-  "duration": 67618,
+  "duration": 69016,
   "status": "passed"
 });
 formatter.match({
@@ -639,21 +639,21 @@ formatter.match({
   "location": "stepDefinition.input_email_address(String)"
 });
 formatter.result({
-  "duration": 405289000,
+  "duration": 892623296,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.submit_the_consent_to_receive_newsletter()"
 });
 formatter.result({
-  "duration": 205130262,
+  "duration": 289697926,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_closes_browser()"
 });
 formatter.result({
-  "duration": 823529796,
+  "duration": 933924109,
   "status": "passed"
 });
 });

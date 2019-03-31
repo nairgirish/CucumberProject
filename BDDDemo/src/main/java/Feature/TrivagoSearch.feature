@@ -27,8 +27,8 @@ Scenario Outline: Subscribe to the Newsletter
 	
 	Examples: 
 		| email | 
-		|  natasha@org.com| 
-		|  steve@org.com |
+		|  nat@org1.com| 
+		|  stevie@org1.com |
 		
 		
 		
